@@ -1,0 +1,38 @@
+.container{
+    margin: 1% 5% 5% 5%;
+    text-align: center;
+    background-image: url('isopods.webp');
+    font-weight: 700px;
+    color: transparent;
+    background-clip: text;
+}
+img{
+    max-width: 50%;
+    height: auto;
+}
+
+.testimonalsText{
+    font-size: 3rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #FF9900;
+}
+
+.testimonalsImage{
+    width: 50%;
+    margin: 20px 0 20px 50%;
+    border-radius: 15%;
+}
+
+.carousel-item{
+    text-align: center;
+}
+.sumarizeContext{
+    background: linear-gradient(to right, #7b4397, #dc2430);
+    font-weight: 1000px;
+    color: transparent;
+    background-clip: text;
+    display: flex;
+    width: 50%;
+    height: auto;
+}
